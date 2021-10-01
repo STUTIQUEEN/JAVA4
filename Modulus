@@ -1,0 +1,6 @@
+Class modulus{
+Public Static Void main(){
+s = 5%2;
+System.out.printpn("REMIANDER ="+s);
+}
+}
